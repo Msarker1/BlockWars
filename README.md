@@ -5,8 +5,10 @@
 A space shooting game in development.This game is being developed with unity.
 
 INSTRUCTIONS FOR WINDOWS:
-MOVEMENTS: 'A' and 'D' 
-SHOOT: 'P'
+
+MOVEMENTS: KEYPRESS 'A' and 'D' 
+
+SHOOT: KEYPRESS 'P'
 
 Download the spaceshooters.zip and extract the spaceshooter folder then run the blockwars.exe.
 ALSO remember to select windowed on when prompted to click play. 
