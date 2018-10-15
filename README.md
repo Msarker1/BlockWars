@@ -1,4 +1,4 @@
-# spaceShooter
+# BlockWars
 
 ![ALT TEXT](https://github.com/Msarker1/spaceShooter/blob/master/TitleScreen.jpg)
 
