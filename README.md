@@ -13,5 +13,5 @@ MOVEMENTS: KEYPRESS 'A' and 'D'
 
 SHOOT: KEYPRESS 'P'
 
-Download the BlockWars.zip and extract the folder then run the .exe file.
+Download the BlockWars.zip and extract the BlockWarsV2 folder then run the BlockWars.exe file.
 ALSO remember to select windowed on when prompted to click play. 
