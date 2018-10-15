@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: df08157a958d646f3a250ac8f9474783
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PowerUp: {instanceID: 0}
+  - LevelUp: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
