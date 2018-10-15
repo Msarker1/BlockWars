@@ -13,5 +13,5 @@ MOVEMENTS: KEYPRESS 'A' and 'D'
 
 SHOOT: KEYPRESS 'P'
 
-Download the spaceshooters.zip and extract the spaceshooter folder then run the blockwars.exe.
+Download the BlockWars.zip and extract the folder then run the .exe file.
 ALSO remember to select windowed on when prompted to click play. 
