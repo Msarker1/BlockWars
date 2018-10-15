@@ -1,6 +1,6 @@
 # spaceShooter
 
-![ALT TEXT](https://github.com/Msarker1/spaceShooter/blob/master/Screenshot%20from%202018-10-11%2017-41-05.jpg)
+![ALT TEXT](https://github.com/Msarker1/spaceShooter/blob/master/TitleScreen.jpg)
 
 Specifications:
 ONLY TESTED AND RAN ON WINDOWS MACHINES. Works great!
