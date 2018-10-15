@@ -2,7 +2,10 @@
 
 ![ALT TEXT](https://github.com/Msarker1/spaceShooter/blob/master/Screenshot%20from%202018-10-11%2017-41-05.jpg)
 
-A space shooting game in development.This game is being developed with unity.
+Specifications:
+ONLY TESTED AND RAN ON WINDOWS MACHINES. Works great!
+
+3D space shooter type game, it was developed with unity.
 
 INSTRUCTIONS FOR WINDOWS:
 
